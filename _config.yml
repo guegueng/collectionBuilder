@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://ggueguen.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder-gh
+baseurl: /LS95-gh
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/ggueguen/collectionbuilder-gh
 
 ##########
 # SITE SETTINGS
@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: LS 95 Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: The Good Gray Poet
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A small digital library of material related to Walt Whitman"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Gretchen Gueguen
 
 ##########
 # COLLECTION SETTINGS
@@ -44,7 +44,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+ noindex: true 
 
 ##########
 # BUILD SETTINGS 
