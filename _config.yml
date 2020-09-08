@@ -1,8 +1,18 @@
-# url: https://guegueng.github.io
+##########
+# collectionbuilder-gh
+# Jekyll Digital Collection Generator, designed for GitHub Pages
+# https://github.com/CollectionBuilder/collectionbuilder-gh
+##########
+
+##########
+# URL VARIABLES
+#
+# url is your gh-pages base, following the pattern: username.github.io
+url: https://guegueng.github.io
 # baseurl is your github repository's name prefixed with a /
-# baseurl: /collectionBuilder
+baseurl: /collectionBuilder
 # location of code, the full url to your github repository
-# source-code: https://github.com/guegueng/collectionBuilder
+source-code: https://github.com/guegueng/collectionBuilder
 
 ##########
 # SITE SETTINGS
