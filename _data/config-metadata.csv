@@ -3,13 +3,15 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier
+subject,Subjects,TRUE
+mediatype,Format,TRUE
+location,Location,
 type,Type,
-format,Format,
-rights,Rights,
+format,File Type,
+language,Language,
 rightsstatement,Rights Statement,
+source,Source,
+publisher,Publisher,
+contributor,Contributor,
+related,Collection,
+transcript,Transcription,

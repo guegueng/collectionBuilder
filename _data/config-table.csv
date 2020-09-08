@@ -1,5 +1,17 @@
 field,display_name
 title,Title
-date,Date
+creator,Creator
+date,Date Created
 description,Description
 subject,Subjects
+mediatype,Format
+location,Location
+type,Type
+format,File Type
+language,Language
+rightsstatement,Rights Statement
+source,Source
+publisher,Publisher
+contributor,Contributor
+related,Collection
+transcript,Transcription
