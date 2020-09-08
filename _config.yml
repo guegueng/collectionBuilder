@@ -10,9 +10,9 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://guegueng.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /LS95-gh
+baseurl: /collectionBuilder
 # location of code, the full url to your github repository
-source-code: https://github.com/ggueguen/collectionbuilder-gh
+source-code: https://github.com/guegueng/collectionbuilder
 
 ##########
 # SITE SETTINGS
